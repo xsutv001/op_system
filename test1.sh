@@ -1,7 +1,7 @@
-                                   
 #!bin/bash
 
-if [-a "$hello.txt"]; then
+FILE=lab2/hello.txt
+if test -f "$FILE"; then
 echo "hello xsutv"
 
 else 
