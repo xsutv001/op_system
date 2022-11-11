@@ -1,6 +1,17 @@
 # opsyst_lab3
-**Лабораторна робота №3**
+## Лабораторна робота №3. Docker
 https://hub.docker.com/repository/docker/xsutv001/lab3_os 
+
+**План**
+
+1)Використання готових Docker Images.
+
+2)Використання Docker Compose.
+
+3)Створення HTML сторінки та занесення її в Docker Image. Залити даний Docker Image на Docker Hub.
+
+4)Скачати Docker Image когось із групи і розвернути в себе контейнер з HTML сторінкою на порті 8086 ззовні.
+
 
 1)
 
