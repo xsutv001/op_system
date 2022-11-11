@@ -14,15 +14,11 @@
 
 
 
-
-
-
-![Знімок екрану з 2022-11-11 18-29-04](https://user-images.githubusercontent.com/115028080/201403043-351f8180-bb75-4b42-9e0c-9af85ee1667d.png)
-
 ![Знімок екрану з 2022-11-10 19-16-10](https://user-images.githubusercontent.com/115028080/201403005-d5684f9e-1d39-46cc-8b97-9b29aa09a3ae.png)
 
 ![Знімок екрану з 2022-11-11 18-27-01](https://user-images.githubusercontent.com/115028080/201403018-79e37112-e195-4ca1-8d9b-03afe8d0ce42.png)
 
+![Знімок екрану з 2022-11-11 18-29-04](https://user-images.githubusercontent.com/115028080/201403043-351f8180-bb75-4b42-9e0c-9af85ee1667d.png)
 
 ![Знімок екрану з 2022-11-11 18-52-28](https://user-images.githubusercontent.com/115028080/201403089-bc712e73-1841-4af6-b800-3ba6a8db789d.png)
 
