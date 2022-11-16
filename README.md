@@ -9,3 +9,8 @@
 
 ![Знімок екрану з 2022-11-11 18-48-32](https://user-images.githubusercontent.com/115028080/201643154-1353078f-2e39-47d3-a3de-4bfb418c37bf.png)
 ![Знімок екрану з 2022-11-14 12-58-53](https://user-images.githubusercontent.com/115028080/201643430-cee5d0b2-01b7-4d0b-8a14-1d1b3a148871.png)
+![Знімок екрану з 2022-11-16 16-14-26](https://user-images.githubusercontent.com/115028080/202204738-a4a84b92-e1b6-4b38-95ff-81951c5638ad.png)
+![Знімок екрану з 2022-11-16 16-17-32](https://user-images.githubusercontent.com/115028080/202204755-279c9d34-12cd-4e15-952b-048690952ac9.png)
+
+
+IP address 44.206.253.181 
